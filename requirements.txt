@@ -1,0 +1,9 @@
+pymupdf
+faiss-cpu
+sentence-transformers
+matplotlib
+scikit-learn
+transformers
+accelerate
+torch
+openai
